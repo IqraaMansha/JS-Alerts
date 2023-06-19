@@ -3,7 +3,6 @@
 console.log("#1 ALERT");
 
 
-
 alert("Error! Please Enter a valid Password");
 
 
