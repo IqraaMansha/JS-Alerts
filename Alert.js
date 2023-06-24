@@ -1,5 +1,4 @@
 // #1 ALERTS
-
 console.log("#1 ALERT");
 
 
